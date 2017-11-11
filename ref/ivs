@@ -1,0 +1,13 @@
+(0.018,0.12,0.74,1.05e7)  # the default
+(0.016,0.106,0.63,1.1e7)  # TIA test
+(0.068,0.1,0.5,1.05e7) # ohne late skips (N=2e7, off=-2.74e5, noise=4.5e5)
+(0.013,0.1,0.65,1.05e7) # ohne COE (N=2e7, off=-2.74e5, noise=4.5e5)
+
+
+ohne COE
+(0.016,0.11,0.74,1.03e7)
+mit idvdl skip
+(0.01,0.11,0.7,1e7)
+ohne lateskip
+(0.15,0.1,0.6,1.0e7)
+

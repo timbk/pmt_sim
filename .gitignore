@@ -1,0 +1,7 @@
+.*.swp
+__pycache__/
+__pycache__/*
+img/*
+fd:*
+*.pyc
+misc/
