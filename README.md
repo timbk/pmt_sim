@@ -1,13 +1,13 @@
 # general
 A collection of python Scripts used for the PMT simulation as part of my Bachelor thesis.
 See the [Bachelor thesis](https://www.institut3b.physik.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaaawzven) for a more detailed description of whats going on.
-# files
 # requirements
 This project has been written for python 3.6.
 It will most likely work with older versions of python 3.
 The core module (pmt_sim) works on old versions of python 2, too.
 
 Dependencies: numpy, matplotlib
+# files
 ### pmt_sim.py
 The main module that contains the actual simulation functions.
 ### int.py
